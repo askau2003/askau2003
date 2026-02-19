@@ -1,16 +1,16 @@
-## Asger Laurids Søborg-Skau
+# Asger Laurids Søborg-Skau
 
-<!--
-**askau2003/askau2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Computer Science student with interest in modern software development practices and DevOps.
 
-Here are some ideas to get you started:
+Currently completing 4th semester, seeking an internship to apply my knowledge practically, starting in August 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced in Java (Spring Boot), Python, Docker, Linux, REST APIs, Networking, Github Actions, and group projects based on Scrum.
+
+---
+
+## 📫 How to reach me
+- Email: `a.soeborg-skau@hotmail.dk`
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Website: [soeborgskau.dk](https://soeborgskau.dk/index.html)
+
+---
