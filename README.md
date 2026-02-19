@@ -8,7 +8,7 @@ Experienced in Java (Spring Boot), Python, Docker, Linux, REST APIs, Networking,
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 - Email: `a.soeborg-skau@hotmail.dk`
 - LinkedIn: [Asger Laurids Søborg-Skau](https://www.linkedin.com/in/asgerlauridss%C3%B8borg-skau/)
 - Website: [soeborgskau.dk](https://soeborgskau.dk/index.html)
