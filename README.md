@@ -1,10 +1,10 @@
 # Asger Laurids Søborg-Skau
 
-Aspiring Computer Science student with interest in modern software development practices and DevOps.
+Datamatiker (AP Degree in Computer Science) student with hands on experience in backend development, designing systems and understanding requirements.
 
-Currently completing 4th semester, seeking an internship to apply my knowledge practically, starting in August 2026.
+Currently completing my 4th semester and seeking an internship starting August 2026, where I can contribute to real world systems and companies.
 
-Experienced in Java (Spring Boot), Python, Docker, Linux, REST APIs, Networking, Github Actions, and group projects based on Scrum.
+Experienced in Java (Spring Boot), Python, Docker, Linux, REST APIs, Networking, GitHub Actions, and collaborative group projects based on Scrum.
 
 ---
 
